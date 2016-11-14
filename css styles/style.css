@@ -1,0 +1,119 @@
+body
+{
+	background-color: rgb(137,37,222);
+
+}
+
+
+
+
+li
+{
+	list-style: none;
+}
+h4
+{
+	font-family: 'Gloria Hallelujah', cursive;
+	font-family: 'Basic', sans-serif;
+	color: rgb(0,0,255);
+}
+p
+{
+	color:rgb(0,0,128);
+	font-style: monospace;
+	font-family: 'Italianno', cursive;
+	font-family: 'Merienda', cursive;
+	text-align: justify;
+}
+h5
+{
+	padding-left:40px;
+}
+.sky 
+{
+	background-color:rgb(194,214,214);
+}
+.travel
+{
+	background-color:rgb(214,137,16);
+
+}
+.foot
+{
+	background:#F3A098;
+}
+
+#imgsk,#imgl,#imgj
+{
+	margin-bottom: 20px;
+}
+
+#imgno,#imgnoo,#imgnooo,#imgnoooo
+{
+
+	margin-bottom: 20px;
+}
+#imgk
+{
+	height:200px;
+	width:320px;
+	padding bottom:20px;
+}
+#imgko
+{
+	height:225px;
+	width:320px;
+
+}
+#imgki
+{
+	height:225px;
+	width:320px;
+}
+#imgd
+{
+	margin-bottom: 5px;
+	padding-left: 30px;
+}
+#imgt
+{
+	margin-bottom: 3px;
+	padding-left: 30px;
+
+}
+#imgb
+{
+	width:295px;
+	padding-left: 30px;
+
+}
+#goo
+{
+	padding-left: 80px;
+}
+
+
+.follow
+{
+	padding-left: 0px;
+}
+.links p
+{
+	padding-left: 20px;
+}
+.carousel
+{
+	margin-top: 100px;
+	
+	margin-left:0;
+	margin-right:0;
+
+}
+.caro
+{
+	margin-left:auto;
+	margin-right:auto;
+	padding-left: 0px;
+	padding-right: 0px;
+
+}
